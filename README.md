@@ -4,7 +4,7 @@
   So, i like to study new things to be active in various places!</h3>
 <br>
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **kimyogun78@naver.com**
+- 📫 How to reach me kimyogun78@naver.com
 
 <br>
 <p align="left">
