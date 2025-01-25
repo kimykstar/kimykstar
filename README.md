@@ -8,9 +8,14 @@
 - 📫 kimyogun78@naver.com
 <br/>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{kimykstar}"/>
-</a>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/670432209612886284/draw"
+        width="1000"
+        height="600"
+        alt="gitanimals"
+      />
+    </a>
 
 <br>
 <p align="left">
