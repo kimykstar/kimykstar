@@ -5,6 +5,10 @@
 <h3 align="left">Connect with me:</h3>
 - 📫 kimyogun78@naver.com
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{kimykstar}"/>
+</a>
+
 <br>
 <p align="left">
 </p>
